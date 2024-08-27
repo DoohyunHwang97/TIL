@@ -9,3 +9,6 @@
 
 ## Java
 * [Wrapper 클래스](java/wrapper_class.md)
+
+## Design Pattern
+* [Composite 패턴](design_pattern/composite.md)
