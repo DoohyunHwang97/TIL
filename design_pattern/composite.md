@@ -32,3 +32,7 @@ Composite 패턴은 `Component`, `Leaf`, `Composite` 세 가지 주요 요소로
 * `ViewResolver`가 `Component`
 * 모든 `ViewResolver`를 순회하며 뷰 템플릿으로 사용 가능여부를 확인한다
 ### 4. HandlerMethodArgumentResolverComposite and else...
+
+## 출처
+* [복합체(Composite) 패턴 - 완벽 마스터하기](https://inpa.tistory.com/entry/GOF-%F0%9F%92%A0-%EB%B3%B5%ED%95%A9%EC%B2%B4Composite-%ED%8C%A8%ED%84%B4-%EC%99%84%EB%B2%BD-%EB%A7%88%EC%8A%A4%ED%84%B0%ED%95%98%EA%B8%B0)
+* [SpringBoot 소스 분석하기](https://mangkyu.tistory.com/216)
