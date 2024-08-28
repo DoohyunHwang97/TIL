@@ -6,6 +6,7 @@
 ### APSS
 * [알고리즘 문제해결 전략 2장](https://github.com/DoohyunHwang97/TIL/blob/545bc6506cfd254d59b71fae66131a00b0bfba46/algorithm/APSS_02.md)
 * [알고리즘 문제해결 전략 3장](https://github.com/DoohyunHwang97/TIL/blob/68bd13bf5138536b93ab39a514af9373c3132fe5/algorithm/APSS_03.md)
+* [알고리즘 문제해결 전략 4장](algorithm/APSS_04.md)
 
 ## Java
 * [Wrapper 클래스](java/wrapper_class.md)
