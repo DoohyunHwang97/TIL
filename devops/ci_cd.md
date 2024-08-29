@@ -5,5 +5,7 @@
 * 빌드와 테스트의 자동화된 과정
 
 ## CD
-* 지속적인 배포
+* Continuous Delivery / Continuous Deployment 두가지 의미
+* Continuous Delivery - 안정화된 코드의 지속적인 저장소로의 통합을 자동화한 것,배포는 manual하게 한다는 점에서 Continuous Deployment와 차이가 존재
+* Continuous Deployment - prod level까지의 자동화된 지속적인 배포
 * 작은 변경을 운영 서비스에 지속적으로 반영하는 것 -> 똑같이 충돌 방지
