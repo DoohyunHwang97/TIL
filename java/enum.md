@@ -15,7 +15,7 @@
 7. ordinal() 사용 지양
     1. 인덱스를 반환
     2. ordinal()을 사용한 로직(순서 반환)은 용도에 맞지 않음
-    3. 원래 용도는 EnumSet, EnumMap
+    3. 원래 용도는 EnumSet, EnumMap의 성능 최적화 // 대부분의 연산이 ordinal을 이용한 산술비트 연산
 8. EnumSet
     1. Enum의 요소들을 Set으로 만든 것
     2. Set의 부분집합을 만들기 위한 정적 메소드 제공
