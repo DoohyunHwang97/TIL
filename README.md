@@ -21,3 +21,6 @@
 
 ## DevOps
 * [CI/CD](devops/ci_cd.md)
+
+## JPA
+* [영속성 전이](jpa/cascade.md)
