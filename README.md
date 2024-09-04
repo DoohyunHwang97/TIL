@@ -15,6 +15,7 @@
 
 ## Design Pattern
 * [Composite 패턴](design_pattern/composite.md)
+* [Proxy 패턴](design_pattern/proxy.md)
 
 ## Git
 * [Git Flow](git/git_flow.md)
