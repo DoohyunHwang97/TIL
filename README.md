@@ -48,3 +48,7 @@
 ## Elastic Search
 * [Elastic Search](elastic_search/elastic_search.md)
 * [유사도 알고리즘](elastic_search/similarity_algorithm.md)
+
+## Redis
+* [캐시 사용시 발생할 수 있는 이슈](redis/cache_issues.md)
+* [Redis 설계 전략](redis/cache_strategies.md)
